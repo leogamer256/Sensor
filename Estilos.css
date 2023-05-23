@@ -1,0 +1,43 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+p {
+    background-color: rgb(255, 0, 0);
+    margin:10%;
+    padding:10%;
+    border: 10%;
+    border-style: solid;
+  }
+h1{
+    text-align:center;
+}
+form {
+    text-align:center;  
+    border-spacing:10px;
+}
+form#text{
+    text-align:justify;
+}
+input[type="text"] {
+    padding: 10px;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  button {
+    padding: 8px 16px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #45a049;
+  }
+  fieldset{
+    margin: 30%;
+    padding: 10%;
+  }
