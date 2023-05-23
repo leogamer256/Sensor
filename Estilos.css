@@ -16,9 +16,7 @@ h1{
 form {
     text-align:center;  
     border-spacing:10px;
-}
-form#text{
-    text-align:justify;
+
 }
 input[type="text"] {
     padding: 10px;
@@ -29,7 +27,7 @@ input[type="text"] {
   button {
     padding: 8px 16px;
     background-color: #4CAF50;
-    color: white;
+    color: lightcyan;
     border: none;
     cursor: pointer;
   }
